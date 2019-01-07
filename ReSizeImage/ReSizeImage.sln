@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReSizeImage", "ReSizeImage\ReSizeImage.csproj", "{E1B1ECAA-98B1-47C9-ADFB-BCCA58A85941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1B1ECAA-98B1-47C9-ADFB-BCCA58A85941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B1ECAA-98B1-47C9-ADFB-BCCA58A85941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B1ECAA-98B1-47C9-ADFB-BCCA58A85941}.Debug|x64.ActiveCfg = Debug|x64
+		{E1B1ECAA-98B1-47C9-ADFB-BCCA58A85941}.Debug|x64.Build.0 = Debug|x64
+		{E1B1ECAA-98B1-47C9-ADFB-BCCA58A85941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B1ECAA-98B1-47C9-ADFB-BCCA58A85941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B1ECAA-98B1-47C9-ADFB-BCCA58A85941}.Release|x64.ActiveCfg = Release|x64
+		{E1B1ECAA-98B1-47C9-ADFB-BCCA58A85941}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E7B59E7-BDD7-45FB-9D23-DE88E217CB7D}
+	EndGlobalSection
+EndGlobal
